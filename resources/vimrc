@@ -1,0 +1,17 @@
+" vim Configuration File
+
+" Syntax highlighting on
+syntax on
+
+" Line numbers on 
+set number 
+
+" Backspace fixes
+set backspace=indent,eol,start
+
+" Case-insensitive searching on
+set ignorecase
+set smartcase
+
+" Disable bell sound
+set noerrorbells visualbell t_vb=

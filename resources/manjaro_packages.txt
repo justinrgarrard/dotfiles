@@ -1,0 +1,13 @@
+base-devel
+git
+yay
+zsh
+oh-my-zsh
+kitty
+tmux
+vim
+code
+ruby
+nvm
+wireguard-tools
+openresolv
